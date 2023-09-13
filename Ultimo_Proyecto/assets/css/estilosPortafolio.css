@@ -1,0 +1,19 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+header {
+  background-color: rgb(108, 24, 64);
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black;
+}
+
+footer {
+  background-color: rgb(108, 24, 64);
+  color: white; /* Color del texto en el footer */
+  text-align: center;
+  padding: 20px;
+}
